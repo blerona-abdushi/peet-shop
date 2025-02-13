@@ -1,0 +1,9 @@
+:root{
+    --primary-color: #F4A460;
+    --primaty-dark: #A52A2A;
+
+    /*font family*/
+    --chelsea-font: "Chelsea Market", serif;
+    --poppins-font: "Poppins", serif;
+    --oswald-font: "Oswald", serif;
+}

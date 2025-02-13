@@ -1,0 +1,52 @@
+{
+    "animals": [
+
+        {
+            "name": "Cat",
+            "image": "img/cat.png",
+            "description": "Elegant and independent animals, but also affectionate."
+        },
+        {
+            "name": "Rabbit",
+            "image": "img/lepur.png",
+            "description": "Soft and adorable, ideal for calm homes."
+        },
+        {
+            "name": "Hamster",
+            "image": "img/hamster.png",
+            "description": "Small and easy-to-care-for animals."
+        },
+        {
+            "name": "Dove",
+            "image": "img/pellumb.png",
+            "description": "Smart and beautiful, often a symbol of peace."
+        },
+        {
+            "name": "Parrot",
+            "image": "img/papagall.png",
+            "description": "Intelligent and sometimes talkative, very entertaining for their owners."
+        },
+        {
+            "name": "Tropical Fish",
+            "image": "img/peshq.png",
+            "description": "Beautiful colors and they calm the home environment."
+        },
+        {
+            "name": "Turtle",
+            "image": "img/breshk.png",
+            "description": "Calm and long-lived animals, ideal for people who want low maintenance."
+        },
+        {
+            "name": "Hedgehog",
+            "image": "img/iriq.png",
+            "description": "Unique and adorable, but requires special care."
+        },
+        {
+            "name": "Guinea Pig",
+            "image": "img/ginipig.png",
+            "description": "Very affectionate and soft, suitable for children."
+        }
+    ]
+}
+
+
