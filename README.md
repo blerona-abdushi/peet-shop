@@ -20,4 +20,6 @@ HTML5, CSS3, JavaScript (ES6)
 🎯 Project goal
 
 This project is built for fun and practice front-end, demonstrating skills in interactivity and animation with JavaScript.
-[![Live Demo](https://img.shields.io/badge/Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://pet-shop.vercel.app)
+## 🚀 Live Demo
+(https://pet-shop.vercel.app)
+
